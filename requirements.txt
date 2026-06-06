@@ -1,4 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
+psycopg2-binary
+websockets
 python-multipart
 pydantic
